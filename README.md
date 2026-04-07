@@ -35,6 +35,7 @@ This system operates as an **open-loop system**, since it does not verify the ac
 ---
 
 ## Demonstration
-(Add your video link here)
+https://youtube.com/shorts/YW0VpI0Xe2E?feature=share
+
 
 Developed in 2025
